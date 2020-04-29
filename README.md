@@ -1,7 +1,7 @@
 # Sherpa - Bowden Beta - Release 1
 
-![Image of Sherpa Extruder](https://raw.githubusercontent.com/Annex-Engineering/Rappel-Extruder/master/Release2/Renders/Rappel_R2.png?raw=true)
-![Image of Sherpa Extruder](https://raw.githubusercontent.com/Annex-Engineering/Rappel-Extruder/master/Release2/Renders/Rappel_R2_2.png?raw=true)
+![Image of Sherpa Extruder](https://github.com/Annex-Engineering/Sherpa-Extruder/blob/master/Bowden_Variant/Images/Bowden_Render1.JPG?raw=true)
+![Image of Sherpa Extruder](https://github.com/Annex-Engineering/Sherpa-Extruder/blob/master/Bowden_Variant/Images/Bowden_Render2.JPG?raw=true)
 
 This is the Sherpa Extruder, a ground up design developed by Anlin and the team at Annex Engineering. It's a dual geared hobbed filament extruder designed for use with any printer. It features a 6:1 gear driven design to provide torque while being able to be near silent. You must perform your own tuning to get the best results.
 
