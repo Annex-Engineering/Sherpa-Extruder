@@ -1,4 +1,4 @@
-# Sherpa - Bowden Beta - Release 1
+# Sherpa - Beta - Release 1
 
 This is the Sherpa Extruder, a ground up design developed by Anlin and the team at Annex Engineering. It's a dual geared hobbed filament extruder designed for use with any printer. It features a 6:1 gear driven design to provide torque while being able to be near silent. You must perform your own tuning to get the best results.
 
