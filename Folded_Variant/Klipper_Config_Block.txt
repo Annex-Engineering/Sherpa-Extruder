@@ -2,7 +2,7 @@ These are good starting settings for the extruder, I have copy pasted my entire 
 
 # Extruder0
 [extruder]
-"5:1" gears, dd, pinion nema14
+"5:1" gears, dd, shaft nema14 with 17t gear on it
 step_distance: 0.001423
 
 #0.4mm Nozzle
